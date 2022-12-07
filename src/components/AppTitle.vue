@@ -19,10 +19,13 @@ export default {
 
 <style scoped>
 h1 {
-    color: red;
+    color: green;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    background-color: black;
+    padding: 10px;
+    border-radius: 15px;
 }
 </style>
